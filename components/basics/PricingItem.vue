@@ -20,7 +20,7 @@
         <div class="flex items-center my-[6px]">
           <nuxt-img
             class="w-[11px] h-[8px]"
-            :src="element.highlight ? 'https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/icon-check.svg' : 'https://github.com/tonyalcast/maker-landing/blob/develop/public/images/icon-check-two.svg'"
+            :src="element.highlight ? 'https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/icon-check.svg' : 'https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/icon-check-two.svg'"
             alt="check" />
           <p class="ml-[16px]">{{ characteristic.description }}</p>
         </div>
