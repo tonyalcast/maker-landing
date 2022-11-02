@@ -23,22 +23,22 @@ export default {
       benefits: {
         elements: [
           {
-            imageUrl: 'images/illustration-passions.svg',
+            imageUrl: 'https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/illustration-passions.svg',
             title: 'Indulge your passions',
             subtitle: `Your passions shouldn't be just for the weekend. Earn a living doing what you love.`,
           },
           {
-            imageUrl: 'images/illustration-financial-freedom.svg',
+            imageUrl: 'https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/illustration-financial-freedom.svg',
             title: 'Gain financial freedom',
             subtitle: 'Start making money work for you. There’s nothing quite like earning while you sleep.',
           },
           {
-            imageUrl: 'images/illustration-lifestyle.svg',
+            imageUrl: 'https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/illustration-lifestyle.svg',
             title: 'Choose your lifestyle',
             subtitle: 'Own your daily schedule. Fancy a lie-in? Go for it! Take charge of your week.',
           },
           {
-            imageUrl: 'images/illustration-work-anywhere.svg',
+            imageUrl: 'https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/illustration-work-anywhere.svg',
             title: 'Work from anywhere',
             subtitle: 'Selling online means not being pinned down. Want to work AND travel? Go for it!',
           },
@@ -50,7 +50,7 @@ export default {
           'We only make money when our creators make money. Our plans are always affordable, and it’s completely free to get started.',
         elements: [
           {
-            icon: 'images/icon-free.svg',
+            icon: 'https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/icon-free.svg',
             title: 'Dip your toe',
             subtitle: 'Just getting started? No problem at all! Our free plan will take you a long way.',
             price: 'Free',
@@ -76,7 +76,7 @@ export default {
             ],
           },
           {
-            icon: 'images/icon-paid.svg',
+            icon: 'https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/icon-paid.svg',
             title: 'Dive right in',
             subtitle: 'Ready for the big time? Our paid plan will help you take your business to the next level.',
             price: '$25.00',

@@ -31,7 +31,7 @@
       </div>
     </div>
     <div class="flex flex-row absolute w-[100%] justify-between">
-      <nuxt-img class="w-[100%] h-[228px]" src="images/bg-hero-squiggle.svg" alt="squiggle" />
+      <nuxt-img class="w-[100%] h-[228px]" src="https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/bg-hero-squiggle.svg" alt="squiggle" />
     </div>
     <hr />
   </div>

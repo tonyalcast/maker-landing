@@ -1,9 +1,9 @@
 <template>
   <div class="flex w-full h-[580px] items-center justify-center relative mobile:flex-col mobile:h-[750px]">
     <div class="flex flex-row tab:absolute w-[110%] desktop:justify-between justify-center mobile:h-[233px] mobile:w-[60%] mobile:mb-[40px]">
-      <nuxt-img src="images/illustration-hero-left.svg" alt="illustration childs"/>
-      <nuxt-img class="mobile:hidden" src="images/bg-hero-squiggle.svg" alt="squiggle"/>
-      <nuxt-img src="images/illustration-hero-right.svg" alt="illustration childs"/>
+      <nuxt-img src="https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/illustration-hero-left.svg" alt="illustration childs"/>
+      <nuxt-img class="mobile:hidden" src="https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/bg-hero-squiggle.svg" alt="squiggle"/>
+      <nuxt-img src="https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/illustration-hero-right.svg" alt="illustration childs"/>
     </div>
     <div class="text-center z-[5]">
       <div class="w-[540px] flex flex-col mobile:w-[327px]">
