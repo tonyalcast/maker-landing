@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Manrope ExtraBold";
+  src: url("./assets/fonts/Manrope-ExtraBold.ttf");
+}
+
+@font-face {
+  font-family: "Manrope Medium";
+  src: url("./assets/fonts/Manrope-Medium.ttf");
+}
+
+body {
+  @apply bg-mk-dark text-mk-white font-manrope-medium text-m1 overflow-x-hidden
+}
