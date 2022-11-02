@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-First time using Vue and Nuxt. Started from scratch!
+First time using Vue and Nuxt. Started from scratch! 
 
 
 ## Author
