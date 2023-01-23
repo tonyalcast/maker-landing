@@ -79,7 +79,7 @@ export default {
             icon: 'https://raw.githubusercontent.com/tonyalcast/maker-landing/develop/public/images/icon-paid.svg',
             title: 'Dive right in',
             subtitle: 'Ready for the big time? Our paid plan will help you take your business to the next level.',
-            price: '$25.00',
+            price: '$55.00',
             frecuency: '/ month',
             highlight: true,
             characteristics: [
